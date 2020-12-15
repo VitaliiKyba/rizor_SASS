@@ -1,0 +1,221 @@
+.header {
+}
+.head {
+}
+.logo 
+
+		// .logo_img
+
+		&_img 
+		
+
+		// .logo__link
+
+		&__link 
+		
+
+.imgu {
+}
+.f12
+.menu
+
+		// .menu__links
+
+		&__links {
+		}
+
+		// .menu__link
+
+		&__link
+.main
+
+.title
+
+		// .title__saw
+
+		&__saw
+
+.block-txt
+
+.watch-video
+
+.wattch-video
+
+		// .wattch-video__video
+
+		&__video
+
+
+.video-play
+
+
+.description
+		// .description__heading
+		&__heading
+
+.heading
+
+.subtext
+
+.arrow
+
+.baner
+
+.baner-img
+
+.subtitle
+		// .subtitle_video
+		&_video
+
+		// .subtitle__background
+		&__background
+
+
+.advantage-video
+
+.about
+		// .about__fdash
+		&__fdash
+
+		// .about__ftext
+		&__ftext
+
+		// .about__sdash
+		&__sdash
+
+		// .about__stext
+		&__stext
+
+		// .about__tdash
+		&__tdash
+
+		// .about__ttext
+		&__ttext
+
+
+.advantages
+
+.design
+
+.definition
+
+.design-block
+
+.first
+
+.dash
+
+.second
+
+.third
+
+.box
+
+.color
+		// .color_board
+		&_board
+
+		// .color__head
+		&__head
+
+		// .color__description
+		&__description
+
+
+.colorhead
+
+.colordescription
+
+.gsapimg
+
+.bottom
+		// .bottom__saw
+		&__saw
+
+		// .bottom__baner
+		&__baner
+
+
+.saw-img
+
+.modes
+
+.modes-text
+		// .modes-text__head
+		&__head
+
+		// .modes-text__txt
+		&__txt
+
+
+.modes-text-item1
+		// .modes-text-item1__dash1
+		&__dash1
+
+		// .modes-text-item1__def1
+		&__def1
+
+		// .modes-text-item1__dash2
+		&__dash2
+
+		// .modes-text-item1__def2
+		&__def2
+
+		// .modes-text-item1__def3
+		&__def3
+
+		// .modes-text-item1__def31
+		&__def31
+
+		// .modes-text-item1__def4
+		&__def4
+
+		// .modes-text-item1__def41
+		&__def41
+
+
+.modes-text-item2
+
+.modes-text-item3
+
+.modes-text-item4
+
+.modes-watch-video
+		// .modes-watch-video__line
+		&__line
+
+		// .modes-watch-video__play
+		&__play
+
+
+.mwvlimg
+
+.mwvplay
+
+.bottom-baner
+		// .bottom-baner__img
+		&__img
+
+
+.footer
+
+.photo-footer
+
+.photo
+
+.footer-block-txt
+		// .footer-block-txt__head
+		&__head
+
+		// .footer-block-txt__text
+		&__text
+
+		// .footer-block-txt__btn
+		&__btn
+
+
+.all
+		// .all__rights
+		&__rights
+
+
