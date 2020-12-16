@@ -1,3 +1,13 @@
+// import { gsap } from "node_modules/gsap/dist/gsap.js";
+// import { TextPlugin } from "node_modules/gsap/dist/TextPlugin.js";
+// import { ScrollTrigger } from "node_modules/gsap/dist/ScrollTrigger.js";
+
+gsap.registerPlugin(TextPlugin, ScrollTrigger);
+
+let t1 = new TimelineMax();
+
+t1.fromTo(".logo", 1, { x: -500 }, { x: 0 }, "+=1");
+
 gsap
   .timeline({
     scrollTrigger: {
